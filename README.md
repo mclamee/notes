@@ -1,4 +1,4 @@
 # notes
 
-Indexes
+Index
 - [Docker](./docker.md)
