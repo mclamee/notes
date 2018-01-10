@@ -1,4 +1,28 @@
-# notes
+# MC Notes
 
-Index
-- [Docker](./docker.md)
+Containers
+
+1. [Docker](/notes-docker.md)
+
+
+
+Java
+
+
+
+Micro Services
+
+
+
+Functional Programming
+
+
+
+Block Chain
+
+
+
+Artificial Intelligence
+
+
+
